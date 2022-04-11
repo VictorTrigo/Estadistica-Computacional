@@ -24,7 +24,7 @@ III. Estadística
 
 # I. Programación (en Python)
 
-* [Taller 1](https://colab.research.google.com/drive/15FkQYJ1nSMJmAyemgej7-f9tu9P4Q_1m)
+* [Taller 1](https://github.com/VictorTrigo/Estadistica-Computacional/blob/master/EC_Taller_1_Programaci%C3%B3n_con_Python.ipynb)
 
   - Variables, operaciones y expresiones
   - Estructuras de Datos
