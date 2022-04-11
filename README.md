@@ -4,7 +4,7 @@ Estadística Computacional es una asignaura obligatoria en el programa de Doctor
 
 ## Indice
 
-1. Programación
+I. Programación (en Python)
 
 * Numpy
 * Scipy
@@ -15,31 +15,22 @@ Estadística Computacional es una asignaura obligatoria en el programa de Doctor
 * Scikitlearn
 * Tensorflow y Keras
 
+II. Métodos Númericos
 
-# 1. Programación (en Python)
-
-Python es un lenguaje ...(multipoposito, multiparadigma, alto nivel)
-
-* Tipos de datos: 
-int, float, bool, string
-
-* Estructuras de datos:
-dict, list, range, set, tuple, array(np), matrix(np), DataFrame(pd)
-
-* Operaciones:
-+, -, *, **, /, //, %
-
-* Operaciones relacionales:
-==, !=, <, >, <=, >=
-
-* Operadores lógicos:
-and, or, 
-
-* Estructuras de control:
-if, elif, else, while, for
+III. Estadística
 
 
 
+
+# I. Programación (en Python)
+
+* [Taller 1](https://colab.research.google.com/drive/15FkQYJ1nSMJmAyemgej7-f9tu9P4Q_1m)
+
+  - Variables, operaciones y expresiones
+  - Estructuras de Datos
+  - Flujos de Control 
+  - Funciones
+  - Algoritmos
 
 
 
