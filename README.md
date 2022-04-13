@@ -24,13 +24,17 @@ III. Estadística
 
 # I. Programación (en Python)
 
-* [Taller 1](EC_Taller_1_Programación_con_Python.ipynb)
+Anaconda y Jupyter Notebook
+
+* [Clase 1](clase01.ipynb)
 
   - Variables, operaciones y expresiones
   - Estructuras de Datos
   - Flujos de Control 
   - Funciones
   - Algoritmos
+
+* 
 
 
 
