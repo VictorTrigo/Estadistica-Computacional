@@ -34,8 +34,9 @@ Anaconda y Jupyter Notebook
   - Funciones
   - Algoritmos
 
-* 
-
+* [Clase 2](clase02.ipynb)
+  
+  - Algoritmos
 
 
 
