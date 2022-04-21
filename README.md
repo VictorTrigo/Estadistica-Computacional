@@ -55,11 +55,10 @@ Estadística Computacional es una asignaura obligatoria en el programa de Doctor
 - Muestreo de Gibbs
 
 
+# Tecnologías
 
-
-# Clase 1: Programación en Python
-
-### Tecnologías
+- [Python](https://www.python.org/)
+: [Numpy](https://numpy.org/), [Scipy](https://scipy.org/), [Pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/), [Statsmodels](https://www.statsmodels.org/stable/index.html), [Scikit-Learn](https://scikit-learn.org/stable/), [Keras-Tensorflow](https://www.tensorflow.org/)
 
 - [GitHub](https://github.com/VictorTrigo)
 : Sistema de control de versiones
@@ -73,8 +72,28 @@ Estadística Computacional es una asignaura obligatoria en el programa de Doctor
 - [Anaconda](https://www.anaconda.com/)
 : Framework para Data Science
 
-- Librerias: Numpy, Pandas, Matplotlib, Seaborn, Statsmodels, Scikit-Learn, Keras-Tensorflow
 
+# [Clase 1](clase01.ipynb): Programación en Python
+
+- Tipos de datos: ()
+
+- Operadores aritmeticos: (+, -, *, /, //, %)
+
+- Operadores relacionales: (==, !=, <, >, <=, >=)
+
+- Operadores lógicos: (and, or, not, xor) 
+
+- Estructuras de datos: (dict, list, range, set, tuple, array, matrix, DataFrame)
+
+- Estructuras de control: (if, elif, else, for, while)
+
+- Funciones y Algoritmos
+
+# Clase 2: Algoritmos
+
+# Clase 3: Algoritmos
+
+# Clase 4: Algoritmos
 
 
 
