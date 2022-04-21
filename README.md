@@ -89,13 +89,29 @@ Estadística Computacional es una asignaura obligatoria en el programa de Doctor
 
 - Funciones y Algoritmos
 
-# Clase 2: Algoritmos
+
+
+# [Clase 2](clase02.ipynb): Algoritmos
+
+Problema: Encontrar máximo común divisor entre dos números enteros
+
+Creando algoritmos y encapsulandolo en funciones se proponen tres soluciones, incluyendo el Algoritmo de Euclides.
 
 # Clase 3: Algoritmos
 
 # Clase 4: Algoritmos
 
-
+Algoritmo de Sieve de Eratosthenes
+Algoritmos de búsqueda: 
+ - Encontrar el máximo de una lista
+ - Dada una lista con elementos repetidos, contar la cantidad de elementos
+ - Sacar la diferencia entre dos números consecutivos
+ - 
+Estadística computacional: 
+ - Promedio Aritmetico
+ - Varianza
+ - Maximo Minimo
+ - Estadísticos de orden (algoritmo burbuja)
 
 
 
