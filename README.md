@@ -73,7 +73,7 @@ Estadística Computacional es una asignaura obligatoria en el programa de Doctor
 : Framework para Data Science
 
 
-# [Clase 1](clase01.ipynb): Programación en Python
+# [Lección 1](clase01.ipynb): Programación en Python
 
 - Tipos de datos: ()
 
@@ -87,37 +87,88 @@ Estadística Computacional es una asignaura obligatoria en el programa de Doctor
 
 - Estructuras de control: (if, elif, else, for, while)
 
-- Funciones y Algoritmos
+- Funciones y Algoritmos: Uso de lo aprendido para crear funciones y algoritmos
 
 
 
-# [Clase 2](clase02.ipynb): Algoritmos
+# [Lección 2](clase02.ipynb): Algoritmos
 
-Problema: Encontrar máximo común divisor entre dos números enteros
+Algoritmos:
+ - Primer algoritmo (desarrollado por Al-Juarismi)
+ - Definición y caracteristicas de un algoritmo
+ - Principales desafios con algritmos
+ - Analisis de Algoritmos
 
-Creando algoritmos y encapsulandolo en funciones se proponen tres soluciones, incluyendo el Algoritmo de Euclides.
+Resolucion de problemas:
+ - Ordenamiento
+ - Busqueda
+ - Procesamiento de cadenas de caracteres (string)
+ - Problemas con graficos
+ - Problemas conmbinatoriales
+ - Problemas geometricos
+ - Problemas numéricos
 
-# Clase 3: Algoritmos
+Análisis de Algoritmos
+ - Correctitud
+ - Eficiencia temporal
+ - Eficiencia en almacenamiento
 
-# Clase 4: Algoritmos
+Estrategias de Diseño de Algoritmos
+ - Fuerza bruta
+ - Divide y conquista
+ - Disminuir y conquistar
+ - Transformar y conquistar
+ - Enfoque Greedy
+ - Programación dinámica
+ - Backtracking y branch-and-bound
+ - Compromiso espacio y tiempo
 
-Algoritmo de Sieve de Eratosthenes
-Algoritmos de búsqueda: 
- - Encontrar el máximo de una lista
- - Dada una lista con elementos repetidos, contar la cantidad de elementos
- - Sacar la diferencia entre dos números consecutivos
- - 
-Estadística computacional: 
+Algoritmos de Ordenamiento:
+ - Algoritmo por selección
+ - Algoritmo por inserción
+ - Algoritmo de Mezcla
+ - Algoritmo Quickstort
+ - Algoritmo Heap
+
+
+
+
+
+# [Lección 3](clase03.ipynb): Estadística Computacional
+
+Programación de Medidas Estadísticas
  - Promedio Aritmetico
  - Varianza
- - Maximo Minimo
+ - Maximo y Minimo
  - Estadísticos de orden (algoritmo burbuja)
+ - Cuartiles
+ - Percentiles
+ - Moda
+ - Momentos Muestrales (y centrados)
+ - Sesgo y Curtosis
+ - Promedio Truncado
+ - Median Absolute Deviation
+ - Covarianza y Correlacion
+ - Función de Distribución Empírica
+
+Otros:
+ - Histograma de Frecuencia
+ - Grafico de barras
+ - Grafico de dispersión
+ - Tabla de Frecuencias
 
 
+# [Lección 4](clase04.ipynb): Estadística Algoritmos de Búsqueda y Ordenamiento
 
+Selection Sort
 
+Bubble Sort
 
+Merge Sort
 
+Quick Sort (Algoritmo de Partición de Hoare)
+
+Complejidad Computacional
 
 
 
