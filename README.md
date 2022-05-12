@@ -113,7 +113,7 @@ Análisis de Algoritmos
  - Eficiencia temporal
  - Eficiencia en almacenamiento
 
-Estrategias de Diseño de Algoritmos
+Estrategias de Diseño de Algoritmos:
  - Fuerza bruta
  - Divide y conquista
  - Disminuir y conquistar
@@ -134,7 +134,7 @@ Algoritmos de Ordenamiento:
 
 
 
-# [Lección 3](clase03.ipynb): Estadística Computacional
+# [Lección 3](clase03.ipynb): Computación en Estadística
 
 Programación de Medidas Estadísticas
  - Promedio Aritmetico
@@ -158,17 +158,48 @@ Otros:
  - Tabla de Frecuencias
 
 
-# [Lección 4](clase04.ipynb): Estadística Algoritmos de Búsqueda y Ordenamiento
+# [Lección 4](clase04.ipynb): Algoritmos de Búsqueda y Ordenamiento
 
-Selection Sort
+Problema: Dada una lista de n ítemes ordenables, reubicar sus elementos de forma no-decreciente.
 
-Bubble Sort
+- Selection Sort: Se busca el elemento mas pequeño y se reemplaza por el primer elemento y se repite para el resto de posiciones.
 
-Merge Sort
+- Bubble Sort: Se comparan los dos elementos adyacentes y se intercambian si están desordenados.
 
-Quick Sort (Algoritmo de Partición de Hoare)
+- Merge Sort: Divide una lista en dos mitades hasta obtener una lista simple de ordenar (dos elementos) y se procede a ordenar.
 
-Complejidad Computacional
+- Quick Sort (Algoritmo de Partición de Hoare): Se elige un elemento L de la lista divideindo la lista en dos; los elementos menores a L y los elementos mayores a L y L queda en su lugar, y repite.
+
+Se requiere conocer complejidad temporal y espacial de los algoritmos para decidir cual es mas adecuado para x-problema.
+
+
+# [Lección 5](clase05.ipynb): Análisis de la Complejidad de los Algoritmos
+
+Análisis del Tiempo de Ejecución: 
+ - Análisis del peor-caso, caso-promedio y mejor-caso
+
+
+
+
+
+# [Lección 6](clase06.ipynb): Estategias de Diseños de Algoritmos
+
+
+# [Lección 7](clase07.ipynb): Analisis de Error
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
