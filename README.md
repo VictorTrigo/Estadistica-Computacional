@@ -73,7 +73,7 @@ Estadística Computacional es una asignaura obligatoria en el programa de Doctor
 : Framework para Data Science
 
 
-# [Lección 1](clase01.ipynb): Programación en Python
+# [Lección 1](leccion01.ipynb): Programación en Python
 
 - Tipos de datos: ()
 
@@ -91,7 +91,7 @@ Estadística Computacional es una asignaura obligatoria en el programa de Doctor
 
 
 
-# [Lección 2](clase02.ipynb): Algoritmos
+# [Lección 2](leccion02.ipynb): Algoritmos
 
 Algoritmos:
  - Primer algoritmo (desarrollado por Al-Juarismi)
@@ -134,7 +134,7 @@ Algoritmos de Ordenamiento:
 
 
 
-# [Lección 3](clase03.ipynb): Computación en Estadística
+# [Lección 3](leccion03.ipynb): Computación en Estadística
 
 Programación de Medidas Estadísticas
  - Promedio Aritmetico
