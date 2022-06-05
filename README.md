@@ -177,18 +177,71 @@ Se requiere conocer complejidad temporal y espacial de los algoritmos para decid
 
 Análisis del Tiempo de Ejecución: 
  - Análisis del peor-caso, caso-promedio y mejor-caso
+ - Tiempos de Ejecición para distintos tamaños de entrada
 
-
-
-
+Funciones de Crecimiento
+ - Notación Asintótica
+ - Propiedades de las notaciones de crecimiento asintóticas
+ - Comportamiento Asintótico de los Polinomios 
 
 # [Lección 6](clase06.ipynb): Estategias de Diseños de Algoritmos
+
+ - Fuerza Bruta
+ - Búsqueda Exhaustiva
+ - Decrece y Conquista
+ - Divide y Conquista
+ - Transforma y Conquistar
 
 
 # [Lección 7](clase07.ipynb): Analisis de Error
 
+Tipos de Error
+ - Tipos y Fuentes de Error
+ - Tipos de Análisis de Error
+ - Exactitud vs Precisión
+
+Errores de Redondeo
+ - Definicioón de Redondeo
+ - Definición de Error
+ - Dígitos Significativos
+ - Precisión de la Máquina
+
+Aritmética del Punto Flotante
+
+Problemas Bien Condicionados
+ - Definiciones
+
+Ejemplos Reales de Errores Numéricos
+ - La Falla del Misil Patriot
+ - La Explosión del Ariane 5
 
 
+# [Lección 8](clase08.ipynb): Ecuaciones No Lineales
+
+Solución Numérica de Ecuaciones No-Lineales
+
+Métodos de Localización de Raíces
+ - Método de la Bisección
+ - Método de Regula Falsei
+ - Método de Newton
+ - Método de Diferencias Finitas de Newton
+ - Método de la Secante
+
+Criterios de Parada
+
+Métoro del Punto Fijo
+
+Scipy de Python
+
+
+# [Lección 9](clase09.ipynb): Sistema de Ecuaciones No Lineales
+
+ - Sistemas de Ecuaciones No-Lineales
+ - Expansión de Taylor
+ - Método de Newton
+ - Método de Newton de Diferencias Finitas
+ - Método de la Secante
+ - Método de Broyden
 
 
 
