@@ -3,7 +3,7 @@
 Estadística Computacional es una asignaura obligatoria en el programa de Doctorado en Estadística de la Universidad de Valparaiso, dictada por el profesor Ph. D. Rodrigo Salas.
 
 
-# Contenido del curso
+## Contenido del curso
 
 ### 1. Introducción a lenguajes de programación
 
@@ -55,7 +55,7 @@ Estadística Computacional es una asignaura obligatoria en el programa de Doctor
 - Muestreo de Gibbs
 
 
-# Tecnologías
+## Tecnologías
 
 - [Python](https://www.python.org/)
 : [Numpy](https://numpy.org/), [Scipy](https://scipy.org/), [Pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/), [Statsmodels](https://www.statsmodels.org/stable/index.html), [Scikit-Learn](https://scikit-learn.org/stable/), [Keras-Tensorflow](https://www.tensorflow.org/)
@@ -73,7 +73,7 @@ Estadística Computacional es una asignaura obligatoria en el programa de Doctor
 : Framework para Data Science
 
 
-# [Lección 1](leccion01.ipynb): Programación en Python
+# [Lección 1](leccion01.ipynb): Programación en Python 
 
 - Tipos de datos: ()
 
@@ -157,8 +157,10 @@ Otros:
  - Grafico de dispersión
  - Tabla de Frecuencias
 
+# [Tarea 1](EC_Tarea_1_Estadística_Computacional.ipynb)
+Primera tarea sobre dieño de algoritmos, encapsulamiento en funciones y estructuras de datos.
 
-# [Lección 4](clase04.ipynb): Algoritmos de Búsqueda y Ordenamiento
+# [Lección 4](leccion04.ipynb): Algoritmos de Búsqueda y Ordenamiento
 
 Problema: Dada una lista de n ítemes ordenables, reubicar sus elementos de forma no-decreciente.
 
@@ -173,7 +175,7 @@ Problema: Dada una lista de n ítemes ordenables, reubicar sus elementos de form
 Se requiere conocer complejidad temporal y espacial de los algoritmos para decidir cual es mas adecuado para x-problema.
 
 
-# [Lección 5](clase05.ipynb): Análisis de la Complejidad de los Algoritmos
+# Lección 5: Análisis de la Complejidad de los Algoritmos
 
 Análisis del Tiempo de Ejecución: 
  - Análisis del peor-caso, caso-promedio y mejor-caso
@@ -184,7 +186,7 @@ Funciones de Crecimiento
  - Propiedades de las notaciones de crecimiento asintóticas
  - Comportamiento Asintótico de los Polinomios 
 
-# [Lección 6](clase06.ipynb): Estategias de Diseños de Algoritmos
+# Lección 6: Estategias de Diseños de Algoritmos
 
  - Fuerza Bruta
  - Búsqueda Exhaustiva
@@ -193,12 +195,27 @@ Funciones de Crecimiento
  - Transforma y Conquistar
 
 
-# [Lección 7](clase07.ipynb): Analisis de Error
+# [Tarea 2](EC_Tarea_2_Estadística_Computacional.ipynb)
+Segunda tarea sobre algoritmos de ordenamiento y complejidad algoritmica, combinado con visualización de datos.
+
+# Lección 7: Analisis de Error
 
 Tipos de Error
- - Tipos y Fuentes de Error
- - Tipos de Análisis de Error
- - Exactitud vs Precisión
+- Error en los datos, asociado al instrumento
+- Error de redondeo, asociado al computo y aritmetica
+- Error de aproximación, por truncamiento o por disccretización 
+
+Fuentes de Error
+- Modelado matematico de un problema físico, asociado a la perdida de información en la abstracción del problema
+- Errores de programación
+- Errores de máquina, su representacion del punto flotante
+
+Tipos de Análisis de Error
+- Representacion de número
+- Aitmetica
+- Algoritmo, como se implementa
+- Problema bien condicionado;
+- Estabilidad numerica de un algoritmo
 
 Errores de Redondeo
  - Definicioón de Redondeo
@@ -216,7 +233,11 @@ Ejemplos Reales de Errores Numéricos
  - La Explosión del Ariane 5
 
 
-# [Lección 8](clase08.ipynb): Ecuaciones No Lineales
+
+
+
+
+# Lección 8: Ecuaciones No Lineales
 
 Solución Numérica de Ecuaciones No-Lineales
 
@@ -234,7 +255,7 @@ Métoro del Punto Fijo
 Scipy de Python
 
 
-# [Lección 9](clase09.ipynb): Sistema de Ecuaciones No Lineales
+# Lección 9: Sistema de Ecuaciones No Lineales
 
  - Sistemas de Ecuaciones No-Lineales
  - Expansión de Taylor
