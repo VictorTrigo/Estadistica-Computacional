@@ -198,7 +198,7 @@ Funciones de Crecimiento
 # [Tarea 2](EC_Tarea_2_Estadística_Computacional.ipynb)
 Segunda tarea sobre algoritmos de ordenamiento y complejidad algoritmica, combinado con visualización de datos.
 
-# Lección 7: Analisis de Error
+# [Lección 7](leccion08.ipynb): Analisis de Error
 
 Tipos de Error
 - Error en los datos, asociado al instrumento
@@ -237,7 +237,7 @@ Ejemplos Reales de Errores Numéricos
 
 
 
-# Lección 8: Ecuaciones No Lineales
+# [Lección 8](leccion08.ipynb): Ecuaciones No Lineales
 
 Solución Numérica de Ecuaciones No-Lineales
 
@@ -255,7 +255,7 @@ Métoro del Punto Fijo
 Scipy de Python
 
 
-# Lección 9: Sistema de Ecuaciones No Lineales
+# [Lección 9](leccion09.ipynb): Sistema de Ecuaciones No Lineales
 
  - Sistemas de Ecuaciones No-Lineales
  - Expansión de Taylor
@@ -264,6 +264,31 @@ Scipy de Python
  - Método de la Secante
  - Método de Broyden
 
+# [Lección 10](leccion10.ipynb): Propiedades de Matrices
+
+- Matrices Especiales
+- Traza
+- Determinante
+- Inversa
+- Triangulares
+- Traspuesta
+- Autovalores y Autovectores
+
+# [Lección 11](leccion11.ipynb): Generación de Números Aleatorios
+
+- Variables Aleatorias
+- Distribuciones
+- Generacion de números aleatorios
+- Metodo Montecarlo
+- Metodo de Aceptación y Rechazo
+- Metodo de Transformación
+
+# Lección 12: Remuestreo
+
+- Jacknife
+- Bootstrap
+- Bootstrap no paramétrico
+- Convergencia
 
 
 
